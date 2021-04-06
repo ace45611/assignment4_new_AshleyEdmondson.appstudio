@@ -9,14 +9,42 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "employeeState",
+        "Elements",
+        "drpState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "employeeState",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "employeeState",
+        "Elements",
+        "lstgEmployeeNames.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "employeeState",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
