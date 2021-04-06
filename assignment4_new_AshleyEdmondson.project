@@ -26,6 +26,14 @@
             "employeeState",
             "employeeState.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "employeesDelete",
+            "employeesDelete.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "employeeState",
+      "firstform": "employeesDelete",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
